@@ -1,10 +1,10 @@
 # target
 
-> Antes de tentar rodar os testes, certifique-se de ter o typescript instalado, caso não tenha, use o comando:
+> Antes de tentar rodar os testes, certifique-se de ter o typescript instalado, caso não tenha, use os comandos:
 
 1:
 ```
-npm install
+npm install && cd src/
 ```
 
 
